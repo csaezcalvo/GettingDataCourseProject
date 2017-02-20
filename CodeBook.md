@@ -1,6 +1,6 @@
 # Code Book for average_HAR.txt
 
-The data frame is in tidy form.
+The data frame contains the average on several measurements on the features indicated below for each of 30 subjects performing one of 6 activities.
 
 ## How features are obtained
 
